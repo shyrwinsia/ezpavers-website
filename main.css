@@ -26,7 +26,6 @@ html {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  text-shadow: #000;
   max-width: 30%;
   padding: 200px;
   background: rgba(0, 0, 0, 0.2);
