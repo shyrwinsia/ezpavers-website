@@ -5,6 +5,7 @@ html {
   font-style: normal;
   margin: 0;
   padding: 0;
+  background-color: #000;
 }
 
 .hero {
@@ -483,22 +484,13 @@ html {
 }
 
 .footer-bottom {
-  border-top: 1px solid #111111;
+  border-top: 1px solid #040404;
   margin-top: 20px;
   padding: 10px 0;
 }
 
 .footer-bottom p {
   margin: 0;
-}
-
-.footer {
-  background-color: #020202;
-  color: rgba(255, 255, 255, 0.6);
-  padding: 2px;
-  font-size: 0.65em;
-  margin: 0;
-  text-align: center;
 }
 
 .footer a {
@@ -516,5 +508,5 @@ html {
 }
 
 .feather {
-  stroke-width: 1.7px; /* Adjust this value to change the stroke width */
+  stroke-width: 1.7px;
 }
